@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://jazz:jazz1234@cluster0.ydea72p.mongodb.net/?retryWrites=true&w=majority",
+  "JWTsecretToken": "cyprodev",
+  "user": "arshchawla450@@gmail.com",
+  "pass": "ljptoefmyidfumdb",
+  "secret": "cyprodev"
+}
